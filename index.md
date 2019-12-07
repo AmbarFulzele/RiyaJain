@@ -1,3 +1,2183 @@
-<HTML>
-Hiiiii...........
-</HTML>
+<html><head></head><body><div class="quswrap">
+
+<div class="qus_txt">1. Study the diagram given below and answer the following question.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/07/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck3-37.jpg" class="imgresp"><br><br>By which letter, the married teachers who live in joint family are represented ?</div>
+</div>
+<br>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset1" id="optionset1_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'1_1',1,'explain1');"> <label for="optionset1_1">R</label></div>
+<div class="optdiv"><input type="radio" name="optionset1" id="optionset1_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'1_2',1,'explain1');"> <label for="optionset1_2">Q</label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset1" id="optionset1_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'1_3',1,'explain1');"> <label for="optionset1_3">S</label></div>
+<div class="optdiv"><input type="radio" name="optionset1" id="optionset1_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'1_4',1,'explain1');"> <label for="optionset1_4">P</label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset1" id="optionset1_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'1_5',1,'explain1');"> <label for="optionset1_5">None of these</label></div>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans1"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+
+<br>
+<hr class="wspacehr">
+
+
+<div class="qus_txt">3. How many rectangles are there in the following diagram that are not squares?<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock2/reasoningability/ssccpo2019phase1mock2pic_find_num_49_que.jpg" class="imgresp"></div>
+</div>
+<br>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset3" id="optionset3_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,5,'3_1',1,'explain3');"> <label for="optionset3_1">5 rectangles</label></div>
+<div class="optdiv"><input type="radio" name="optionset3" id="optionset3_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,5,'3_2',1,'explain3');"> <label for="optionset3_2">6 rectangles</label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset3" id="optionset3_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,5,'3_3',1,'explain3');"> <label for="optionset3_3">7 rectangles</label></div>
+<div class="optdiv"><input type="radio" name="optionset3" id="optionset3_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,5,'3_4',1,'explain3');"> <label for="optionset3_4">9 rectangles</label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset3" id="optionset3_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,5,'3_5',1,'explain3');"> <label for="optionset3_5">8 rectangles</label></div>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans3"></div>
+	
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">4. Identify the diagram that best represents the relationship among the given classes. <br><br>Doctors, men, Professionals.</div>
+</div>
+<br>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset4" id="optionset4_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'4_1',1,'explain4');"> <label for="optionset4_1"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock1/reasoningability/ssccpo2019phase1mock2pic_non_ver_venn_48_op1.jpg" class="imgresp"></label></div>
+<div class="optdiv"><input type="radio" name="optionset4" id="optionset4_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'4_2',1,'explain4');"> <label for="optionset4_2"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock1/reasoningability/ssccpo2019phase1mock2pic_non_ver_venn_48_op2.jpg" class="imgresp"></label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset4" id="optionset4_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'4_3',1,'explain4');"> <label for="optionset4_3"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock2/reasoningability/ssccpo2019phase1mock2pic_non_ver_venn_48_op3.jpg" class="imgresp"></label></div>
+<div class="optdiv"><input type="radio" name="optionset4" id="optionset4_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'4_4',1,'explain4');"> <label for="optionset4_4"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock2/reasoningability/ssccpo2019phase1mock1pic_non_ver_venn_48_op1.jpg" class="imgresp"></label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset4" id="optionset4_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'4_5',1,'explain4');"> <label for="optionset4_5">None of these</label></div>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans4"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">5. Identify the diagram that best represents the relationship among the given classes. <br>Environment, Nitrogen, Oxygen, Weather</div>
+</div>
+<br>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset5" id="optionset5_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'5_1',1,'explain5');"> <label for="optionset5_1"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock3/reasoningability/ssccpo2019phase1mock2pic_non_ver_venn_47_op1.jpg" class="imgresp"></label></div>
+<div class="optdiv"><input type="radio" name="optionset5" id="optionset5_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'5_2',1,'explain5');"> <label for="optionset5_2"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock3/reasoningability/ssccpo2019phase1mock2pic_non_ver_venn_47_op2.jpg" class="imgresp"></label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset5" id="optionset5_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'5_3',1,'explain5');"> <label for="optionset5_3"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock1/reasoningability/ssccpo2019phase1mock2pic_non_ver_venn_47_op3.jpg" class="imgresp"></label></div>
+<div class="optdiv"><input type="radio" name="optionset5" id="optionset5_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'5_4',1,'explain5');"> <label for="optionset5_4"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock1/reasoningability/ssccpo2019phase1mock1pic_non_ver_venn_47_op1.jpg" class="imgresp"></label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset5" id="optionset5_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'5_5',1,'explain5');"> <label for="optionset5_5">None of these</label></div>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans5"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+
+<div class="qus_txt">6. <br>If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure? <br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck2-46.jpg" class="imgresp"></div>
+</div>
+<br>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset6" id="optionset6_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'6_1',1,'explain6');"> <label for="optionset6_1"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck2-46(1).jpg" class="imgresp"></label></div>
+<div class="optdiv"><input type="radio" name="optionset6" id="optionset6_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'6_2',1,'explain6');"> <label for="optionset6_2"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck2-46(2).jpg" class="imgresp"></label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset6" id="optionset6_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'6_3',1,'explain6');"> <label for="optionset6_3"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock2/reasoningability/ssc-cpo-phasei2019-mck2-46(3).jpg" class="imgresp"></label></div>
+<div class="optdiv"><input type="radio" name="optionset6" id="optionset6_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'6_4',1,'explain6');"> <label for="optionset6_4"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck2-46(4).jpg" class="imgresp"></label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset6" id="optionset6_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'6_5',1,'explain6');"> <label for="optionset6_5">None of these</label></div>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans6"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">7. If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure? <br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck2-45.jpg" class="imgresp"></div>
+</div>
+<br>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset7" id="optionset7_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'7_1',1,'explain7');"> <label for="optionset7_1"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck2-45(1).jpg" class="imgresp"></label></div>
+<div class="optdiv"><input type="radio" name="optionset7" id="optionset7_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'7_2',1,'explain7');"> <label for="optionset7_2"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck2-45(2).jpg" class="imgresp"></label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset7" id="optionset7_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'7_3',1,'explain7');"> <label for="optionset7_3"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck2-45(3).jpg" class="imgresp"></label></div>
+<div class="optdiv"><input type="radio" name="optionset7" id="optionset7_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'7_4',1,'explain7');"> <label for="optionset7_4"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck2-45(4).jpg" class="imgresp"></label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset7" id="optionset7_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'7_5',1,'explain7');"> <label for="optionset7_5">None of these</label></div>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans7"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">8. From the given answer figures, select the one in which the question figure is hidden/embedded.<br><b>Question figure:</b><br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck2-44(1).jpg" class="imgresp"><br><br><b>Answer figures:</b><br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck2-44(2).jpg" class="imgresp"></div>
+</div>
+<br>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset8" id="optionset8_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'8_1',0,'explain8');"> <label for="optionset8_1">1</label></div>
+<div class="optdiv"><input type="radio" name="optionset8" id="optionset8_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'8_2',0,'explain8');"> <label for="optionset8_2">2</label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset8" id="optionset8_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'8_3',0,'explain8');"> <label for="optionset8_3">3</label></div>
+<div class="optdiv"><input type="radio" name="optionset8" id="optionset8_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'8_4',0,'explain8');"> <label for="optionset8_4">4</label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset8" id="optionset8_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'8_5',0,'explain8');"> <label for="optionset8_5">None of these</label></div>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans8"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">9. A piece of paper is folded and punched as shown below. From the given responses indicate how it will appear when opened.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-paper-2.jpg" class="imgresp"></div>
+</div>
+<br>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset9" id="optionset9_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'9_1',1,'explain9');"> <label for="optionset9_1"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-paper-2a.jpg" class="imgresp"></label></div>
+<div class="optdiv"><input type="radio" name="optionset9" id="optionset9_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'9_2',1,'explain9');"> <label for="optionset9_2"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-paper-2b.jpg" class="imgresp"></label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset9" id="optionset9_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'9_3',1,'explain9');"> <label for="optionset9_3"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-paper-2c.jpg" class="imgresp"></label></div>
+<div class="optdiv"><input type="radio" name="optionset9" id="optionset9_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'9_4',1,'explain9');"> <label for="optionset9_4"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-paper-2d.jpg" class="imgresp"></label></div>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset9" id="optionset9_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'9_5',1,'explain9');"> <label for="optionset9_5">None of these</label></div>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans9"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">10. A piece of paper is folded and punched as shown below in the question figures. From the given answer figures, indicate how it will appear when opened.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-paper-1.jpg" class="imgresp"></div>
+</div>
+<br>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset10" id="optionset10_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'10_1',1,'explain10');"> <label for="optionset10_1"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-paper-1a.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset10" id="optionset10_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'10_2',1,'explain10');"> <label for="optionset10_2"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-paper-1b.jpg" class="imgresp"></label>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset10" id="optionset10_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'10_3',1,'explain10');"> <label for="optionset10_3"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-paper-1c.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset10" id="optionset10_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'10_4',1,'explain10');"> <label for="optionset10_4"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-paper-1d.jpg" class="imgresp"></label>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset10" id="optionset10_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'10_5',1,'explain10');"> <label for="optionset10_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans10"></div>
+<div class="wspacediv" id="wspace">
+<a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+
+<div class="qus_txt">11. Which answer figure will complete the pattern in the question figure?<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-pattern-1.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset11" id="optionset11_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'11_1',1,'explain11');"> <label for="optionset11_1"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-pattern-1a.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset11" id="optionset11_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'11_2',1,'explain11');"> <label for="optionset11_2"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-pattern-1b.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset11" id="optionset11_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'11_3',1,'explain11');"> <label for="optionset11_3"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-pattern-1c.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset11" id="optionset11_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'11_4',1,'explain11');"> <label for="optionset11_4"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-2-reas-pattern-1d.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset11" id="optionset11_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'11_5',1,'explain11');"> <label for="optionset11_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans11"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+
+
+<br>
+<hr class="wspacehr">
+</a>
+
+<div class="qus_txt">12. The following question consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/ssccgltierimock7/reasoningability/ssc-cpo-phase1-mck2-pictorial-analogy-40q.jpg" class="imgresp"></div>
+</div>
+<br>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset12" id="optionset12_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'12_1',1,'explain12');"> <label for="optionset12_1">1</label>
+<div class="optdiv"><input type="radio" name="optionset12" id="optionset12_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'12_2',1,'explain12');"> <label for="optionset12_2">2</label>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset12" id="optionset12_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'12_3',1,'explain12');"> <label for="optionset12_3">3</label>
+<div class="optdiv"><input type="radio" name="optionset12" id="optionset12_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'12_4',1,'explain12');"> <label for="optionset12_4">4</label>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset12" id="optionset12_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'12_5',1,'explain12');"> <label for="optionset12_5">5</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans12"></div>
+
+<div class="wspacediv" id="wspace">
+<a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">13. In the following question, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sscchsltierimock6/reasoningability/ssc-cpo-phase1-mck2-pictorial-classification-39q.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset13" id="optionset13_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'13_1',1,'explain13');"> <label for="optionset13_1">1</label>
+<div class="optdiv"><input type="radio" name="optionset13" id="optionset13_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'13_2',1,'explain13');"> <label for="optionset13_2">2</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset13" id="optionset13_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'13_3',1,'explain13');"> <label for="optionset13_3">3</label>
+<div class="optdiv"><input type="radio" name="optionset13" id="optionset13_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'13_4',1,'explain13');"> <label for="optionset13_4">4</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset13" id="optionset13_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'13_5',1,'explain13');"> <label for="optionset13_5">5</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans13"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">14. In the following diagram the boys who are athletic and are disciplined are indicated by which number?<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/ssccgltierimock8/reasoningability/ssc-cpo-phase1-mck2-pictorial-image-analysis-38q.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset14" id="optionset14_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'14_1',1,'explain14');"> <label for="optionset14_1">1</label>
+<div class="optdiv"><input type="radio" name="optionset14" id="optionset14_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'14_2',1,'explain14');"> <label for="optionset14_2">2</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset14" id="optionset14_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'14_3',1,'explain14');"> <label for="optionset14_3">10</label>
+<div class="optdiv"><input type="radio" name="optionset14" id="optionset14_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'14_4',1,'explain14');"> <label for="optionset14_4">6</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset14" id="optionset14_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'14_5',1,'explain14');"> <label for="optionset14_5">3</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans14"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">15. Study the diagram given below and answer the following question.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/ssccgltierimock8/reasoningability/ssc-cpo-phase1-mck2-pictorial-image-analysis-37q.jpg" class="imgresp"><br><br>How many persons who take tea and wine but not coffee?</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset15" id="optionset15_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'15_1',1,'explain15');"> <label for="optionset15_1">20</label>
+<div class="optdiv"><input type="radio" name="optionset15" id="optionset15_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'15_2',1,'explain15');"> <label for="optionset15_2">17</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset15" id="optionset15_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'15_3',1,'explain15');"> <label for="optionset15_3">25</label>
+<div class="optdiv"><input type="radio" name="optionset15" id="optionset15_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'15_4',1,'explain15');"> <label for="optionset15_4">15</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset15" id="optionset15_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'15_5',1,'explain15');"> <label for="optionset15_5">30</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans15"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">17. How many squares are there in this figure?<br><br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sbiclerkprelimsmock1/reasoningability/ssccpo2019phase1mock1_pic_find_shapes_ques_49.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset17" id="optionset17_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,5,'17_1',1,'explain17');"> <label for="optionset17_1">3</label>
+<div class="optdiv"><input type="radio" name="optionset17" id="optionset17_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,5,'17_2',1,'explain17');"> <label for="optionset17_2">4</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset17" id="optionset17_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,5,'17_3',1,'explain17');"> <label for="optionset17_3">9</label>
+<div class="optdiv"><input type="radio" name="optionset17" id="optionset17_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,5,'17_4',1,'explain17');"> <label for="optionset17_4">8</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset17" id="optionset17_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,5,'17_5',1,'explain17');"> <label for="optionset17_5">7</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans17"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">18. Which of the following diagrams indicates the best relation between administration, finance, accounts?</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset18" id="optionset18_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'18_1',1,'explain18');"> <label for="optionset18_1"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock2/reasoningability/ssccpo2019phase1mock1pic_non_ver_venn_48_op1.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset18" id="optionset18_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'18_2',1,'explain18');"> <label for="optionset18_2"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock2/reasoningability/ssccpo2019phase1mock1pic_non_ver_venn_48_op2.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset18" id="optionset18_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'18_3',1,'explain18');"> <label for="optionset18_3"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock2/reasoningability/ssccpo2019phase1mock1pic_non_ver_venn_48_op3.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset18" id="optionset18_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'18_4',1,'explain18');"> <label for="optionset18_4"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock1/reasoningability/ssccpo2019phase1mock1pic_non_ver_venn_48_op4.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset18" id="optionset18_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'18_5',1,'explain18');"> <label for="optionset18_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans18"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">19. Which one of the following best depicts the relationship among INSAT, EDUSAT, Satellite and Earth?</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset19" id="optionset19_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'19_1',1,'explain19');"> <label for="optionset19_1"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock1/reasoningability/ssccpo2019phase1mock1pic_non_ver_venn_47_op1.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset19" id="optionset19_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'19_2',1,'explain19');"> <label for="optionset19_2"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock1/reasoningability/ssccpo2019phase1mock1pic_non_ver_venn_47_op2.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset19" id="optionset19_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'19_3',1,'explain19');"> <label for="optionset19_3"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock3/reasoningability/ssccpo2019phase1mock1pic_non_ver_venn_47_op3.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset19" id="optionset19_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'19_4',1,'explain19');"> <label for="optionset19_4"><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock2/reasoningability/ssccpo2019phase1mock1pic_non_ver_venn_47_op4.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset19" id="optionset19_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'19_5',1,'explain19');"> <label for="optionset19_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans19"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">20. If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure?<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck1-46(1).jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset20" id="optionset20_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'20_1',1,'explain20');"> <label for="optionset20_1"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck1-46(2).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset20" id="optionset20_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'20_2',1,'explain20');"> <label for="optionset20_2"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck1-46(3).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset20" id="optionset20_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'20_3',1,'explain20');"> <label for="optionset20_3"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck1-46(4).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset20" id="optionset20_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'20_4',1,'explain20');"> <label for="optionset20_4"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck1-46(5).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset20" id="optionset20_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'20_5',1,'explain20');"> <label for="optionset20_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans20"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="quswrap">
+
+<div class="qus_txt">21. If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure? <br><br><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck1-44(1).jpg" class="imgresp"></div>
+</div>
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset21" id="optionset21_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'21_1',1,'explain21');"> <label for="optionset21_1"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck1-44(2).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset21" id="optionset21_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'21_2',1,'explain21');"> <label for="optionset21_2"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck1-44(3).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset21" id="optionset21_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'21_3',1,'explain21');"> <label for="optionset21_3"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck1-44(4).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset21" id="optionset21_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'21_4',1,'explain21');"> <label for="optionset21_4"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck1-44(5).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset21" id="optionset21_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'21_5',1,'explain21');"> <label for="optionset21_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans21"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">22. From the given answer figures, select the one in which the question figure is hidden/embedded.<br><b>Question figure:</b><br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck1-45(1).jpg" class="imgresp"><br><br><b>Answer figures:</b><br><br><img src=" https://www.fresherslive.com/mock-test-images/2019/nov/01/sbiclerkprelimsmock1/reasoningability/ssc-cpo-phasei2019-mck1-45(2).jpg" class="imgresp"></div>
+</div>
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset22" id="optionset22_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'22_1',0,'explain22');"> <label for="optionset22_1">1</label>
+<div class="optdiv"><input type="radio" name="optionset22" id="optionset22_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'22_2',0,'explain22');"> <label for="optionset22_2">2</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset22" id="optionset22_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'22_3',0,'explain22');"> <label for="optionset22_3">3</label>
+<div class="optdiv"><input type="radio" name="optionset22" id="optionset22_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'22_4',0,'explain22');"> <label for="optionset22_4">4</label>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset22" id="optionset22_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'22_5',0,'explain22');"> <label for="optionset22_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans22"></div>
+
+<div class="wspacediv" id="wspace">
+<a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">23. A piece of paper is folded and punched as shown below in the question figures. From the given answer figures, indicate how it will appear when opened?<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-paper-1.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset23" id="optionset23_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'23_1',1,'explain23');"> <label for="optionset23_1"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-paper-1a.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset23" id="optionset23_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'23_2',1,'explain23');"> <label for="optionset23_2"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-paper-1b.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset23" id="optionset23_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'23_3',1,'explain23');"> <label for="optionset23_3"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-paper-1c.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset23" id="optionset23_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'23_4',1,'explain23');"> <label for="optionset23_4"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-paper-1d.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset23" id="optionset23_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'23_5',1,'explain23');"> <label for="optionset23_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans23"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">24. A piece of paper is folded and punched as shown below in the question figures. From the given answer figures, indicate how it will appear when opened<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-paper-2.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset24" id="optionset24_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'24_1',1,'explain24');"> <label for="optionset24_1"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-paper-2a.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset24" id="optionset24_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'24_2',1,'explain24');"> <label for="optionset24_2"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-paper-2b.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset24" id="optionset24_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'24_3',1,'explain24');"> <label for="optionset24_3"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-paper-2c.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset24" id="optionset24_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'24_4',1,'explain24');"> <label for="optionset24_4"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-paper-2d.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset24" id="optionset24_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'24_5',1,'explain24');"> <label for="optionset24_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans24"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">25. Which answer figure will complete the pattern in the question figure?<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-pattern-1.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset25" id="optionset25_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'25_1',1,'explain25');"> <label for="optionset25_1"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-pattern-1a.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset25" id="optionset25_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'25_2',1,'explain25');"> <label for="optionset25_2"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-pattern-1b.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset25" id="optionset25_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'25_3',1,'explain25');"> <label for="optionset25_3"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-pattern-1c.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset25" id="optionset25_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'25_4',1,'explain25');"> <label for="optionset25_4"><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/sbiclerkprelimsmock1/reasoningability/ssc-cpo-tier-1-mock-1-reas-pattern-1d.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset25" id="optionset25_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'25_5',1,'explain25');"> <label for="optionset25_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans25"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">26. The following question consists of two sets of figures. Figures A, B, C and D constitute the Problem Set while figures 1, 2, 3, 4 and 5 constitute the Answer Set. There is a definite relationship between figures A and B. Establish a similar relationship between figures C and D by selecting a suitable figure from the Answer Set that would replace the question mark (?) in fig. (D).<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/ssccgltierimock8/reasoningability/ssc-cpo-phase1-mck1-pictorial-analogy-40q.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset26" id="optionset26_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'26_1',1,'explain26');"> <label for="optionset26_1">1</label>
+<div class="optdiv"><input type="radio" name="optionset26" id="optionset26_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'26_2',1,'explain26');"> <label for="optionset26_2">2</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset26" id="optionset26_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'26_3',1,'explain26');"> <label for="optionset26_3">3</label>
+<div class="optdiv"><input type="radio" name="optionset26" id="optionset26_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'26_4',1,'explain26');"> <label for="optionset26_4">4</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset26" id="optionset26_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'26_5',1,'explain26');"> <label for="optionset26_5">5</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans26"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">27. In the following question, out of the five figures marked (1), (2), (3), (4) and (5), four are similar in a certain manner. However, one figure is not like the other four. Choose the figure which is different from the rest.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/nov/02/sscchsltierimock4/reasoningability/ssc-cpo-phase1-mck1-pictorial-classification-39q-new.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset27" id="optionset27_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'27_1',1,'explain27');"> <label for="optionset27_1">1</label>
+<div class="optdiv"><input type="radio" name="optionset27" id="optionset27_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'27_2',1,'explain27');"> <label for="optionset27_2">2</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset27" id="optionset27_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'27_3',1,'explain27');"> <label for="optionset27_3">3</label>
+<div class="optdiv"><input type="radio" name="optionset27" id="optionset27_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'27_4',1,'explain27');"> <label for="optionset27_4">4</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset27" id="optionset27_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'27_5',1,'explain27');"> <label for="optionset27_5">5</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans27"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">28. In the following diagram rectangle represents men, Triangle represents educated, Circle represents urban and square represents government employees.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/ssccgltierimock8/reasoningability/ssc-cpo-phase1-mck1-pictorial-image-analysis-37q.jpg" class="imgresp"><br><br>Which one of the following represents a woman who is urban as well as government employee?</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset28" id="optionset28_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'28_1',1,'explain28');"> <label for="optionset28_1">7</label>
+<div class="optdiv"><input type="radio" name="optionset28" id="optionset28_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'28_2',1,'explain28');"> <label for="optionset28_2">13</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset28" id="optionset28_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'28_3',1,'explain28');"> <label for="optionset28_3">10</label>
+<div class="optdiv"><input type="radio" name="optionset28" id="optionset28_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'28_4',1,'explain28');"> <label for="optionset28_4">6</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset28" id="optionset28_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'28_5',1,'explain28');"> <label for="optionset28_5">5</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans28"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">29. In the following diagram rectangle represents men, Triangle represents educated, Circle represents urban and square represents government employees.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/oct/31/ssccgltierimock8/reasoningability/ssc-cpo-phase1-mck1-pictorial-image-analysis-37q.jpg" class="imgresp"><br><br><br>Which one of the following represents the educated men but not urban?</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset29" id="optionset29_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'29_1',1,'explain29');"> <label for="optionset29_1">9</label>
+<div class="optdiv"><input type="radio" name="optionset29" id="optionset29_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'29_2',1,'explain29');"> <label for="optionset29_2">5</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset29" id="optionset29_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'29_3',1,'explain29');"> <label for="optionset29_3">4</label>
+<div class="optdiv"><input type="radio" name="optionset29" id="optionset29_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'29_4',1,'explain29');"> <label for="optionset29_4">11</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset29" id="optionset29_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'29_5',1,'explain29');"> <label for="optionset29_5">12</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans29"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">30. Find the missing number.<br><br><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/22/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck5-15.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset30" id="optionset30_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'30_1',1,'explain30');"> <label for="optionset30_1">58</label>
+<div class="optdiv"><input type="radio" name="optionset30" id="optionset30_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'30_2',1,'explain30');"> <label for="optionset30_2">51</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset30" id="optionset30_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'30_3',1,'explain30');"> <label for="optionset30_3">65</label>
+<div class="optdiv"><input type="radio" name="optionset30" id="optionset30_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'30_4',1,'explain30');"> <label for="optionset30_4">64</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset30" id="optionset30_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'30_5',1,'explain30');"> <label for="optionset30_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans30"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">31. Which of the following diagrams indicates the best relation between Elephant, Carnivorous and Tiger?</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset31" id="optionset31_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'31_1',1,'explain31');"> <label for="optionset31_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/22/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck5-14(1).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset31" id="optionset31_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'31_2',1,'explain31');"> <label for="optionset31_2"><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/22/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck5-14(2).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset31" id="optionset31_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'31_3',1,'explain31');"> <label for="optionset31_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/22/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck5-14(3).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset31" id="optionset31_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'31_4',1,'explain31');"> <label for="optionset31_4"><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/22/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck5-14(4).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset31" id="optionset31_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'31_5',1,'explain31');"> <label for="optionset31_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans31"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">32. A word is represented by only one set of numbers as given in any one of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as shown in the given two matrices. The columns and rows of Matrix-I are numbered from 0 to 4 and that of Matrix-II are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, for example, 'K' can be represented by 10, 31, etc., and 'M' can be represented by 76, 87, etc. <br><br>Similarly, you have to identify the set for the word 'SCAM'. <br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/22/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck5-13.jpg" class="imgresp"></div>
+</div>
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset32" id="optionset32_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'32_1',1,'explain32');"> <label for="optionset32_1">00, 13, 57, 76</label>
+<div class="optdiv"><input type="radio" name="optionset32" id="optionset32_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'32_2',1,'explain32');"> <label for="optionset32_2">11, 04, 86, 59</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset32" id="optionset32_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'32_3',1,'explain32');"> <label for="optionset32_3">23, 22, 99, 95</label>
+<div class="optdiv"><input type="radio" name="optionset32" id="optionset32_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'32_4',1,'explain32');"> <label for="optionset32_4">32, 40, 66, 68</label>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset32" id="optionset32_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'32_5',1,'explain32');"> <label for="optionset32_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans32"></div>
+
+<div class="wspacediv" id="wspace">
+<a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">33. Find the missing number?<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/21/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck4-15.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset33" id="optionset33_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'33_1',1,'explain33');"> <label for="optionset33_1">4</label>
+<div class="optdiv"><input type="radio" name="optionset33" id="optionset33_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'33_2',1,'explain33');"> <label for="optionset33_2">6</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset33" id="optionset33_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'33_3',1,'explain33');"> <label for="optionset33_3">8</label>
+<div class="optdiv"><input type="radio" name="optionset33" id="optionset33_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'33_4',1,'explain33');"> <label for="optionset33_4">2</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset33" id="optionset33_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'33_5',1,'explain33');"> <label for="optionset33_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans33"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">34. Which of the following diagrams best depicts the relationship among Book, Dictionary and Printer?</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset34" id="optionset34_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'34_1',1,'explain34');"> <label for="optionset34_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/21/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck4-14(1).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset34" id="optionset34_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'34_2',1,'explain34');"> <label for="optionset34_2"><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/21/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck4-14(2).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset34" id="optionset34_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'34_3',1,'explain34');"> <label for="optionset34_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/21/sbiclerkprelimsmock2/reasoningability/ssc-sp-matric2019-mck4-14(3).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset34" id="optionset34_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'34_4',1,'explain34');"> <label for="optionset34_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/21/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck4-14(4).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset34" id="optionset34_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'34_5',1,'explain34');"> <label for="optionset34_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans34"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">36. Select the missing number from the given responses.<br>
+<br>
+4&nbsp; &nbsp;10&nbsp; &nbsp;16<br>
+6&nbsp; &nbsp;12&nbsp; &nbsp;18<br>
+8&nbsp; &nbsp; ?&nbsp; &nbsp; 20</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset36" id="optionset36_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'36_1',1,'explain36');"> <label for="optionset36_1">12</label>
+<div class="optdiv"><input type="radio" name="optionset36" id="optionset36_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'36_2',1,'explain36');"> <label for="optionset36_2">14</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset36" id="optionset36_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'36_3',1,'explain36');"> <label for="optionset36_3">18</label>
+<div class="optdiv"><input type="radio" name="optionset36" id="optionset36_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'36_4',1,'explain36');"> <label for="optionset36_4">10</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset36" id="optionset36_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'36_5',1,'explain36');"> <label for="optionset36_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans36"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">37. Which of the following diagrams best depicts the relationship among Shirt, Collar and Pocket?</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset37" id="optionset37_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'37_1',1,'explain37');"> <label for="optionset37_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/17/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck3-14(1).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset37" id="optionset37_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'37_2',1,'explain37');"> <label for="optionset37_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/17/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck3-14(2).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset37" id="optionset37_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'37_3',1,'explain37');"> <label for="optionset37_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/17/sbiclerkprelimsmock2/reasoningability/ssc-sp-matric2019-mck3-14(3).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset37" id="optionset37_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'37_4',1,'explain37');"> <label for="optionset37_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/17/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck3-14(4).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset37" id="optionset37_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'37_5',1,'explain37');"> <label for="optionset37_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans37"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">38. A word is represented by only one set of numbers as given in any one of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as shown in the given two matrices. The columns and rows of Matrix-I are numbered from 0 to 4 and that of Matrix-II are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, for example, D can be represented by 01, 10, etc., and R can be represented by 34, 22, etc. <br>Similarly, you have to identify the set for the word 'GREEN'.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/17/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck3-13.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset38" id="optionset38_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'38_1',1,'explain38');"> <label for="optionset38_1">98, 40, 85, 91, 20</label>
+<div class="optdiv"><input type="radio" name="optionset38" id="optionset38_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'38_2',1,'explain38');"> <label for="optionset38_2">01,04, 42, 76, 98</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset38" id="optionset38_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'38_3',1,'explain38');"> <label for="optionset38_3">78, 24, 65, 24, 99</label>
+<div class="optdiv"><input type="radio" name="optionset38" id="optionset38_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'38_4',1,'explain38');"> <label for="optionset38_4">42, 04, 24, 41, 88</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset38" id="optionset38_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'38_5',1,'explain38');"> <label for="optionset38_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans38"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">39. Find the missing number.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/16/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck2-15.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset39" id="optionset39_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'39_1',1,'explain39');"> <label for="optionset39_1">7</label>
+<div class="optdiv"><input type="radio" name="optionset39" id="optionset39_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'39_2',1,'explain39');"> <label for="optionset39_2">8</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset39" id="optionset39_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'39_3',1,'explain39');"> <label for="optionset39_3">9</label>
+<div class="optdiv"><input type="radio" name="optionset39" id="optionset39_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'39_4',1,'explain39');"> <label for="optionset39_4">26</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset39" id="optionset39_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'39_5',1,'explain39');"> <label for="optionset39_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans39"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">40. Which of the following diagrams indicates the best relation between Page, Chapter and Book?</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset40" id="optionset40_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'40_1',1,'explain40');"> <label for="optionset40_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/16/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck2-14(1).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset40" id="optionset40_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'40_2',1,'explain40');"> <label for="optionset40_2"><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/16/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck2-14(2).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset40" id="optionset40_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'40_3',1,'explain40');"> <label for="optionset40_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/16/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck2-14(3).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset40" id="optionset40_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'40_4',1,'explain40');"> <label for="optionset40_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/16/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck2-14(4).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset40" id="optionset40_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'40_5',1,'explain40');"> <label for="optionset40_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans40"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="quswrap">
+
+<div class="qus_txt">42. Find the missing number.<br>
+<br>
+<img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/aug/14/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck1--15.jpg"></div>
+</div>
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset42" id="optionset42_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'42_1',1,'explain42');"> <label for="optionset42_1">23</label>
+<div class="optdiv"><input type="radio" name="optionset42" id="optionset42_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'42_2',1,'explain42');"> <label for="optionset42_2">25</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset42" id="optionset42_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'42_3',1,'explain42');"> <label for="optionset42_3">27</label>
+<div class="optdiv"><input type="radio" name="optionset42" id="optionset42_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'42_4',1,'explain42');"> <label for="optionset42_4">29</label>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset42" id="optionset42_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'42_5',1,'explain42');"> <label for="optionset42_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans42"></div>
+
+<div class="wspacediv" id="wspace">
+<a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">43. Which of the following diagrams indicates the best relation between <br>Judge, Criminal, Thief</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset43" id="optionset43_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'43_1',1,'explain43');"> <label for="optionset43_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/14/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck1-14(1).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset43" id="optionset43_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'43_2',1,'explain43');"> <label for="optionset43_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/14/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck1-14(2).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset43" id="optionset43_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'43_3',1,'explain43');"> <label for="optionset43_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/14/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck1-14(3).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset43" id="optionset43_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'43_4',1,'explain43');"> <label for="optionset43_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/14/sbiclerkprelimsmock1/reasoningability/ssc-sp-matric2019-mck1-14(4).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset43" id="optionset43_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'43_5',1,'explain43');"> <label for="optionset43_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans43"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">45. From the given answer figures, select the one in which the question figure is hidden/embedded.<br><br><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck5-40(1).jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset45" id="optionset45_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'45_1',1,'explain45');"> <label for="optionset45_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck5-40(2).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset45" id="optionset45_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'45_2',1,'explain45');"> <label for="optionset45_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck5-40(3).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset45" id="optionset45_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'45_3',1,'explain45');"> <label for="optionset45_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock2/reasoningability/ssc-mts-tier12019-mck5-40(4).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset45" id="optionset45_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'45_4',1,'explain45');"> <label for="optionset45_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck5-40(5).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset45" id="optionset45_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'45_5',1,'explain45');"> <label for="optionset45_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans45"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">46. If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure?<br><br><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck5-39(1).jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset46" id="optionset46_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'46_1',1,'explain46');"> <label for="optionset46_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck5-39(2).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset46" id="optionset46_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'46_2',1,'explain46');"> <label for="optionset46_2"><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck5-39(3).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset46" id="optionset46_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'46_3',1,'explain46');"> <label for="optionset46_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck5-39(4).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset46" id="optionset46_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'46_4',1,'explain46');"> <label for="optionset46_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck5-39(5).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset46" id="optionset46_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'46_5',1,'explain46');"> <label for="optionset46_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans46"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">47. Three positions of a cube are shown below. What will come opposite to face containing '5'? <br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock2/reasoningability/ssc-mts-tier12019-mck5-38.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset47" id="optionset47_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'47_1',1,'explain47');"> <label for="optionset47_1">6</label>
+ <div class="optdiv"><input type="radio" name="optionset47" id="optionset47_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'47_2',1,'explain47');"> <label for="optionset47_2">1</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset47" id="optionset47_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'47_3',1,'explain47');"> <label for="optionset47_3">3</label>
+<div class="optdiv"><input type="radio" name="optionset47" id="optionset47_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'47_4',1,'explain47');"> <label for="optionset47_4">2</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset47" id="optionset47_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'47_5',1,'explain47');"> <label for="optionset47_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans47"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">48. Count the number of triangle in the following figure:<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-5-reas-pictorial-3.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset48" id="optionset48_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'48_1',1,'explain48');"> <label for="optionset48_1">10</label>
+<div class="optdiv"><input type="radio" name="optionset48" id="optionset48_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'48_2',1,'explain48');"> <label for="optionset48_2">12</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset48" id="optionset48_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'48_3',1,'explain48');"> <label for="optionset48_3">14</label>
+<div class="optdiv"><input type="radio" name="optionset48" id="optionset48_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'48_4',1,'explain48');"> <label for="optionset48_4">16</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset48" id="optionset48_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'48_5',1,'explain48');"> <label for="optionset48_5">18</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans48"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">49. Which of the following diagrams indicates the best relation between Mercury, Zinc and Metal ?</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset49" id="optionset49_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'49_1',1,'explain49');"> <label for="optionset49_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-5-reas-pictorial-a.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset49" id="optionset49_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'49_2',1,'explain49');"> <label for="optionset49_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-5-reas-pictorial-b.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset49" id="optionset49_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'49_3',1,'explain49');"> <label for="optionset49_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-5-reas-pictorial-c.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset49" id="optionset49_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'49_4',1,'explain49');"> <label for="optionset49_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-5-reas-pictorial-d.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset49" id="optionset49_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'49_5',1,'explain49');"> <label for="optionset49_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans49"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">50. In the question, a word is represented by only one set of numbers as given in any one of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as in two matrices given below. The columns and rows of Matrix I are numbered from 0 to 4 and that of Matrix II are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, e.g., O can be represented by 14, 21 etc., and U can be represented by 57,69,, etc.<br><br>You have to identify the set for the word <b>'NECK'</b><br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sscmtspaperimock3/reasoningability/ssc_mts_prelims_moc5_matrix_image_34qn.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset50" id="optionset50_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'50_1',1,'explain50');"> <label for="optionset50_1">96, 32, 34, 68</label>
+<div class="optdiv"><input type="radio" name="optionset50" id="optionset50_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'50_2',1,'explain50');"> <label for="optionset50_2">77, 13, 69, 75</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset50" id="optionset50_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'50_3',1,'explain50');"> <label for="optionset50_3">65, 21, 58, 99</label>
+<div class="optdiv"><input type="radio" name="optionset50" id="optionset50_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'50_4',1,'explain50');"> <label for="optionset50_4">89, 44, 30, 87</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset50" id="optionset50_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'50_5',1,'explain50');"> <label for="optionset50_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans50"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">51. A piece of paper is folded and punched as shown below in the question figures. From the given answer figures, indicate how it will appear when opened?<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sscmtspaperimock3/reasoningability/ssc_mts_prelims_mock5_paper_folding_33qn.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset51" id="optionset51_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'51_1',0,'explain51');"> <label for="optionset51_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sscmtspaperimock2/reasoningability/ssc_mts_prelims_mock5_paper_folding_33qn_option1.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset51" id="optionset51_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'51_2',0,'explain51');"> <label for="optionset51_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sscmtspaperimock3/reasoningability/ssc_mts_prelims_mock5_paper_folding_33qn_option2.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset51" id="optionset51_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'51_3',0,'explain51');"> <label for="optionset51_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sscmtspaperimock2/reasoningability/ssc_mts_prelims_mock5_paper_folding_33qn_option3.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset51" id="optionset51_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'51_4',0,'explain51');"> <label for="optionset51_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/12/sscmtspaperimock2/reasoningability/ssc_mts_prelims_mock5_paper_folding_33qn_option4.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset51" id="optionset51_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'51_5',0,'explain51');"> <label for="optionset51_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans51"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">52. From the given answer figures, select the one in which the question figure is hidden/embedded. <br>Question figure:<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/08/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck4-40(1).jpg" class="imgresp"><br><br>Answer figures:<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/08/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck4-40(2).jpg" class="imgresp"></div>
+</div>
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset52" id="optionset52_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'52_1',1,'explain52');"> <label for="optionset52_1">1</label>
+<div class="optdiv"><input type="radio" name="optionset52" id="optionset52_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'52_2',1,'explain52');"> <label for="optionset52_2">2</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset52" id="optionset52_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'52_3',1,'explain52');"> <label for="optionset52_3">3</label>
+<div class="optdiv"><input type="radio" name="optionset52" id="optionset52_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'52_4',1,'explain52');"> <label for="optionset52_4">4</label>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset52" id="optionset52_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'52_5',1,'explain52');"> <label for="optionset52_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans52"></div>
+
+<div class="wspacediv" id="wspace">
+<a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">53. A mirror is placed and which of the answer figures is the right image of the given question figure?<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/08/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck4-39(1).jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset53" id="optionset53_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'53_1',1,'explain53');"> <label for="optionset53_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/08/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck4-39(2).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset53" id="optionset53_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'53_2',1,'explain53');"> <label for="optionset53_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/08/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck4-39(3).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset53" id="optionset53_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'53_3',1,'explain53');"> <label for="optionset53_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/08/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck4-39(4).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset53" id="optionset53_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'53_4',1,'explain53');"> <label for="optionset53_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/08/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck4-39(5).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset53" id="optionset53_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'53_5',1,'explain53');"> <label for="optionset53_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans53"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">55. Find the number of triangles in the given figure.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/07/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-4-reas-pictorial-3.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset55" id="optionset55_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'55_1',1,'explain55');"> <label for="optionset55_1">8</label>
+<div class="optdiv"><input type="radio" name="optionset55" id="optionset55_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'55_2',1,'explain55');"> <label for="optionset55_2">10</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset55" id="optionset55_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'55_3',1,'explain55');"> <label for="optionset55_3">12</label>
+<div class="optdiv"><input type="radio" name="optionset55" id="optionset55_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'55_4',1,'explain55');"> <label for="optionset55_4">14</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset55" id="optionset55_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'55_5',1,'explain55');"> <label for="optionset55_5">16</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans55"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">56. Which of the following diagrams indicates the best relation between Factory, Product and Machinery?&nbsp;</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset56" id="optionset56_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'56_1',1,'explain56');"> <label for="optionset56_1"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/aug/07/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-4-reas-pictorial-a.jpg"></label>
+<div class="optdiv"><input type="radio" name="optionset56" id="optionset56_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'56_2',1,'explain56');"> <label for="optionset56_2"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/aug/07/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-4-reas-pictorial-b.jpg"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset56" id="optionset56_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'56_3',1,'explain56');"> <label for="optionset56_3"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/aug/07/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-4-reas-pictorial-d.jpg"></label>
+<div class="optdiv"><input type="radio" name="optionset56" id="optionset56_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'56_4',1,'explain56');"> <label for="optionset56_4"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/aug/07/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-4-reas-pictorial-c.jpg"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset56" id="optionset56_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'56_5',1,'explain56');"> <label for="optionset56_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans56"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+<div class="qus_txt">58. Find out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/09/sscmtspaperimock3/reasoningability/ssc_mts_prelims_mock4_paper_folding_33qn.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset58" id="optionset58_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'58_1',0,'explain58');"> <label for="optionset58_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/09/sscmtspaperimock3/reasoningability/ssc_mts_prelims_mock4_paper_folding_33qn_option1.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset58" id="optionset58_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'58_2',0,'explain58');"> <label for="optionset58_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/09/sscmtspaperimock3/reasoningability/ssc_mts_prelims_mock4_paper_folding_33qn_option2.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset58" id="optionset58_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'58_3',0,'explain58');"> <label for="optionset58_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/09/sscmtspaperimock3/reasoningability/ssc_mts_prelims_mock4_paper_folding_33qn_option3.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset58" id="optionset58_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'58_4',0,'explain58');"> <label for="optionset58_4"><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/09/sscmtspaperimock3/reasoningability/ssc_mts_prelims_mock4_paper_folding_33qn_option4.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset58" id="optionset58_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'58_5',0,'explain58');"> <label for="optionset58_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans58"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">59. If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure?<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock2/reasoningability/ssc-mts-tier12019-mck3-39(1).jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset59" id="optionset59_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'59_1',1,'explain59');"> <label for="optionset59_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck3-39(2).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset59" id="optionset59_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'59_2',1,'explain59');"> <label for="optionset59_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck3-39(3).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset59" id="optionset59_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'59_3',1,'explain59');"> <label for="optionset59_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck3-39(4).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset59" id="optionset59_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'59_4',1,'explain59');"> <label for="optionset59_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck3-39(5).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset59" id="optionset59_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'59_5',1,'explain59');"> <label for="optionset59_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans59"></div>
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">60. Which answer figure will complete the pattern in the question figure ? <br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck3-38(1).jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset60" id="optionset60_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'60_1',1,'explain60');"> <label for="optionset60_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck3-38(2).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset60" id="optionset60_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'60_2',1,'explain60');"> <label for="optionset60_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck3-38(3).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset60" id="optionset60_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'60_3',1,'explain60');"> <label for="optionset60_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck3-38(4).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset60" id="optionset60_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'60_4',1,'explain60');"> <label for="optionset60_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck3-38(5).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset60" id="optionset60_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'60_5',1,'explain60');"> <label for="optionset60_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans60"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="quswrap">
+
+<div class="qus_txt">61. Find the minimum number of straight lines required to make the given figure.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-3-reas-pictorial-3.jpg" class="imgresp"></div>
+</div>
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset61" id="optionset61_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'61_1',1,'explain61');"> <label for="optionset61_1">13</label>
+<div class="optdiv"><input type="radio" name="optionset61" id="optionset61_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'61_2',1,'explain61');"> <label for="optionset61_2">15</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset61" id="optionset61_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'61_3',1,'explain61');"> <label for="optionset61_3">17</label>
+<div class="optdiv"><input type="radio" name="optionset61" id="optionset61_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'61_4',1,'explain61');"> <label for="optionset61_4">19</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset61" id="optionset61_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'61_5',1,'explain61');"> <label for="optionset61_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans61"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">62. Which of the following diagrams best depicts the relationship among Tie, Shirt and Shoe?</div>
+</div>
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset62" id="optionset62_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'62_1',1,'explain62');"> <label for="optionset62_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-3-reas-pictorial-a.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset62" id="optionset62_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'62_2',1,'explain62');"> <label for="optionset62_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-3-reas-pictorial-b.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset62" id="optionset62_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'62_3',1,'explain62');"> <label for="optionset62_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-3-reas-pictorial-c.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset62" id="optionset62_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'62_4',1,'explain62');"> <label for="optionset62_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/06/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-3-reas-pictorial-d.jpg" class="imgresp"></label>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset62" id="optionset62_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'62_5',1,'explain62');"> <label for="optionset62_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans62"></div>
+<div class="wspacediv" id="wspace">
+<a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">64. In the following problem, a square transparent sheet with a pattern is given. Figure out from amongst the four alternatives as to how the pattern would appear when the transparent sheet is folded at the dotted line.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/08/sscmtspaperimock2/reasoningability/ssc_mts_prelims_mock3_paper_folding_33qn.jpg" class="imgresp"><br><br>Response Figures:</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset64" id="optionset64_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'64_1',0,'explain64');"> <label for="optionset64_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/08/sscmtspaperimock2/reasoningability/ssc_mts_prelims_mock3_paper_folding_33qn_option1.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset64" id="optionset64_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'64_2',0,'explain64');"> <label for="optionset64_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/08/sscmtspaperimock2/reasoningability/ssc_mts_prelims_mock3_paper_folding_33qn_option2.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset64" id="optionset64_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'64_3',0,'explain64');"> <label for="optionset64_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/08/sscmtspaperimock2/reasoningability/ssc_mts_prelims_mock3_paper_folding_33qn_option3.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset64" id="optionset64_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'64_4',0,'explain64');"> <label for="optionset64_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/08/sscmtspaperimock2/reasoningability/ssc_mts_prelims_mock3_paper_folding_33qn_option4.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset64" id="optionset64_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'64_5',0,'explain64');"> <label for="optionset64_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans64"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">65. If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure. <br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck2-39(1).jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset65" id="optionset65_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'65_1',1,'explain65');"> <label for="optionset65_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck2-39(2).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset65" id="optionset65_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'65_2',1,'explain65');"> <label for="optionset65_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck2-39(3).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset65" id="optionset65_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'65_3',1,'explain65');"> <label for="optionset65_3"><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck2-39(4).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset65" id="optionset65_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'65_4',1,'explain65');"> <label for="optionset65_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck2-39(5).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset65" id="optionset65_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'65_5',1,'explain65');"> <label for="optionset65_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans65"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">66. Which answer figure will complete the pattern in the question figure?<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock2/reasoningability/ssc-mts-tier12019-mck2-38(1).jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset66" id="optionset66_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'66_1',1,'explain66');"> <label for="optionset66_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck2-38(2).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset66" id="optionset66_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'66_2',1,'explain66');"> <label for="optionset66_2"><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck2-38(3).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset66" id="optionset66_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'66_3',1,'explain66');"> <label for="optionset66_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck2-38(4).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset66" id="optionset66_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'66_4',1,'explain66');"> <label for="optionset66_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck2-38(5).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset66" id="optionset66_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'66_5',1,'explain66');"> <label for="optionset66_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans66"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">67. Find the number of triangles in the given figure.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-2-reas-pictorial-3.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset67" id="optionset67_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'67_1',1,'explain67');"> <label for="optionset67_1">15</label>
+<div class="optdiv"><input type="radio" name="optionset67" id="optionset67_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'67_2',1,'explain67');"> <label for="optionset67_2">16</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset67" id="optionset67_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'67_3',1,'explain67');"> <label for="optionset67_3">17</label>
+<div class="optdiv"><input type="radio" name="optionset67" id="optionset67_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'67_4',1,'explain67');"> <label for="optionset67_4">18</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset67" id="optionset67_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'67_5',1,'explain67');"> <label for="optionset67_5">19</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans67"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">68. Select from the five alternative diagrams, the one that best illustrates the relationship among the three classes:<br>Truck, Ship, Goods</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset68" id="optionset68_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'68_1',1,'explain68');"> <label for="optionset68_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-2-reas-pictorial-a.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset68" id="optionset68_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'68_2',1,'explain68');"> <label for="optionset68_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-2-reas-pictorial-b.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset68" id="optionset68_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'68_3',1,'explain68');"> <label for="optionset68_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-2-reas-pictorial-c.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset68" id="optionset68_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'68_4',1,'explain68');"> <label for="optionset68_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-2-reas-pictorial-d.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset68" id="optionset68_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'68_5',1,'explain68');"> <label for="optionset68_5"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/05/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-2-reas-pictorial-e.jpg" class="imgresp"></label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans68"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">70. From the given answer figures, select the one in which the question figure is hidden/embedded. <br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/03/sbiclerkprelimsmock1/reasoningability/ssc-mts-pap12019-mck1-40(1).jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset70" id="optionset70_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'70_1',1,'explain70');"> <label for="optionset70_1"><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/03/sbiclerkprelimsmock2/reasoningability/ssc-mts-pap12019-mck1-40(2).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset70" id="optionset70_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'70_2',1,'explain70');"> <label for="optionset70_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/03/sbiclerkprelimsmock1/reasoningability/ssc-mts-pap12019-mck1-40(3).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset70" id="optionset70_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'70_3',1,'explain70');"> <label for="optionset70_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/03/sbiclerkprelimsmock1/reasoningability/ssc-mts-pap12019-mck1-40(4).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset70" id="optionset70_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'70_4',1,'explain70');"> <label for="optionset70_4"><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/03/sbiclerkprelimsmock1/reasoningability/ssc-mts-pap12019-mck1-40(5).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset70" id="optionset70_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'70_5',1,'explain70');"> <label for="optionset70_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans70"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">71. If a mirror is placed on the line AB, which of the option figures shows the correct image of the given question figure?<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/02/sbiclerkprelimsmock1/reasoningability/ssc-mts-pap12019-mck1-39(1).jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset71" id="optionset71_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'71_1',1,'explain71');"> <label for="optionset71_1"><img src=" https://www.fresherslive.com/mock-test-images/2019/aug/02/sbiclerkprelimsmock1/reasoningability/ssc-mts-pap12019-mck1-39(2).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset71" id="optionset71_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'71_2',1,'explain71');"> <label for="optionset71_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/02/sbiclerkprelimsmock1/reasoningability/ssc-mts-pap12019-mck1-39(3).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset71" id="optionset71_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'71_3',1,'explain71');"> <label for="optionset71_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/02/sbiclerkprelimsmock1/reasoningability/ssc-mts-pap12019-mck1-39(4).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset71" id="optionset71_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'71_4',1,'explain71');"> <label for="optionset71_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/02/sbiclerkprelimsmock1/reasoningability/ssc-mts-pap12019-mck1-39(5).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset71" id="optionset71_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'71_5',1,'explain71');"> <label for="optionset71_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans71"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">72. In the following question, select the related figure from the given alternatives.<br><br>Question Figure:<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/02/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck1-38(1).jpg" class="imgresp"><br><br>Answer figure:<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/aug/02/sbiclerkprelimsmock1/reasoningability/ssc-mts-tier12019-mck1-38(2).jpg" class="imgresp"></div>
+</div>
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset72" id="optionset72_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'72_1',1,'explain72');"> <label for="optionset72_1">Image 1</label>
+<div class="optdiv"><input type="radio" name="optionset72" id="optionset72_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'72_2',1,'explain72');"> <label for="optionset72_2">Image 2</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset72" id="optionset72_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'72_3',1,'explain72');"> <label for="optionset72_3">Image 3</label>
+<div class="optdiv"><input type="radio" name="optionset72" id="optionset72_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'72_4',1,'explain72');"> <label for="optionset72_4">Image 4</label>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset72" id="optionset72_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'72_5',1,'explain72');"> <label for="optionset72_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans72"></div>
+
+<div class="wspacediv" id="wspace">
+<a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">73. Find the number of triangles in the given figure.<br>
+<br>
+<img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/aug/02/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-1-reas-pictorial-3.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset73" id="optionset73_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'73_1',1,'explain73');"> <label for="optionset73_1">8</label>
+<div class="optdiv"><input type="radio" name="optionset73" id="optionset73_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'73_2',1,'explain73');"> <label for="optionset73_2">10</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset73" id="optionset73_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'73_3',1,'explain73');"> <label for="optionset73_3">11</label>
+<div class="optdiv"><input type="radio" name="optionset73" id="optionset73_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'73_4',1,'explain73');"> <label for="optionset73_4">12</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset73" id="optionset73_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'73_5',1,'explain73');"> <label for="optionset73_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans73"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">74. Which of the following diagrams indicates the best relation between Men, Rodents and Living beings ?</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset74" id="optionset74_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'74_1',1,'explain74');"> <label for="optionset74_1"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/01/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-1-reas-pictorial-a.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset74" id="optionset74_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'74_2',1,'explain74');"> <label for="optionset74_2"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/01/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-1-reas-pictorial-b.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset74" id="optionset74_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'74_3',1,'explain74');"> <label for="optionset74_3"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/01/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-1-reas-pictorial-c.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset74" id="optionset74_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'74_4',1,'explain74');"> <label for="optionset74_4"><img src="https://www.fresherslive.com/mock-test-images/2019/aug/01/sbiclerkprelimsmock1/reasoningability/ssc-mts-mock-1-reas-pictorial-d.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset74" id="optionset74_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'74_5',1,'explain74');"> <label for="optionset74_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans74"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">76. A piece of paper is folded and punched as shown below in the question figures. From the given answer figures, indicate how it will appear when opened?<br>
+<br>
+<img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/aug/02/ibpsclerkprelimsmock32/reasoningability/ssc_mts_prelims_mock1_paper_folding_33qn.jpg">&nbsp;</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset76" id="optionset76_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'76_1',1,'explain76');"> <label for="optionset76_1"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/aug/02/ibpsclerkprelimsmock32/reasoningability/ssc_mts_prelims_mock1_paper_folding_33qn_option1.jpg"></label>
+<div class="optdiv"><input type="radio" name="optionset76" id="optionset76_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'76_2',1,'explain76');"> <label for="optionset76_2"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/aug/02/ibpsclerkprelimsmock32/reasoningability/ssc_mts_prelims_mock1_paper_folding_33qn_option2.jpg"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset76" id="optionset76_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'76_3',1,'explain76');"> <label for="optionset76_3"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/aug/02/ibpsclerkprelimsmock32/reasoningability/ssc_mts_prelims_mock1_paper_folding_33qn_option3.jpg"></label>
+<div class="optdiv"><input type="radio" name="optionset76" id="optionset76_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'76_4',1,'explain76');"> <label for="optionset76_4"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/aug/02/ibpsclerkprelimsmock33/reasoningability/ssc_mts_prelims_mock1_paper_folding_33qn_option4.jpg"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset76" id="optionset76_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'76_5',1,'explain76');"> <label for="optionset76_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans76"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">77. From the given answer figures, select the one in which the question figure is hidden/embedded. <br><br><img src=" https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-43.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset77" id="optionset77_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'77_1',1,'explain77');"> <label for="optionset77_1"><img src=" https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-43(1).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset77" id="optionset77_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'77_2',1,'explain77');"> <label for="optionset77_2"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-43(2).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset77" id="optionset77_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'77_3',1,'explain77');"> <label for="optionset77_3"><img src=" https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-43(3).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset77" id="optionset77_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'77_4',1,'explain77');"> <label for="optionset77_4"><img src=" https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-43(4).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset77" id="optionset77_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'77_5',1,'explain77');"> <label for="optionset77_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans77"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">78. From the given options, which figure can be formed by folding the figure given in the question? <br><br><img src="https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-42.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset78" id="optionset78_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'78_1',1,'explain78');"> <label for="optionset78_1"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-42(1).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset78" id="optionset78_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'78_2',1,'explain78');"> <label for="optionset78_2"><img src=" https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-42(2).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset78" id="optionset78_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'78_3',1,'explain78');"> <label for="optionset78_3"><img src=" https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-42(3).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset78" id="optionset78_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'78_4',1,'explain78');"> <label for="optionset78_4"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-42(4).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset78" id="optionset78_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'78_5',1,'explain78');"> <label for="optionset78_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans78"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">79. If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure? <br><br><img src="https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-41.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset79" id="optionset79_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'79_1',1,'explain79');"> <label for="optionset79_1"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-41(1).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset79" id="optionset79_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'79_2',1,'explain79');"> <label for="optionset79_2"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-41(2).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset79" id="optionset79_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'79_3',1,'explain79');"> <label for="optionset79_3"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock2/reasoningability/ssc-chsl-tier1-mock3-41(3).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset79" id="optionset79_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'79_4',1,'explain79');"> <label for="optionset79_4"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-41(4).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset79" id="optionset79_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'79_5',1,'explain79');"> <label for="optionset79_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans79"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">80. In the given figure, how many table set are not sofa?<br>
+<br>
+<img class="imgresp" src=" https://www.fresherslive.com/mock-test-images/2019/jun/25/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock3-40.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset80" id="optionset80_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'80_1',1,'explain80');"> <label for="optionset80_1">72</label>
+<div class="optdiv"><input type="radio" name="optionset80" id="optionset80_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'80_2',1,'explain80');"> <label for="optionset80_2">18</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset80" id="optionset80_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'80_3',1,'explain80');"> <label for="optionset80_3">43</label>
+<div class="optdiv"><input type="radio" name="optionset80" id="optionset80_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'80_4',1,'explain80');"> <label for="optionset80_4">61</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset80" id="optionset80_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'80_5',1,'explain80');"> <label for="optionset80_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans80"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="quswrap">
+
+<div class="qus_txt">81. In the following figure, square represents Artists, triangle represents Military officars, circle represents collectors and rectangle represents Fathers. Which set of letters represents collectors who are either military officers or fathers?<br>
+<br>
+<img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/jun/19/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock2-41.jpg"></div>
+</div>
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset81" id="optionset81_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'81_1',1,'explain81');"> <label for="optionset81_1">F, C</label>
+<div class="optdiv"><input type="radio" name="optionset81" id="optionset81_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'81_2',1,'explain81');"> <label for="optionset81_2">D, E</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset81" id="optionset81_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'81_3',1,'explain81');"> <label for="optionset81_3">A, B, G</label>
+<div class="optdiv"><input type="radio" name="optionset81" id="optionset81_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'81_4',1,'explain81');"> <label for="optionset81_4">H, E, D</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset81" id="optionset81_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'81_5',1,'explain81');"> <label for="optionset81_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans81"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">82. Identify the diagram that best represents the relationship among the given classes.<br><br>Human, Men, Brothers</div>
+</div>
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset82" id="optionset82_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'82_1',1,'explain82');"> <label for="optionset82_1"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/19/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock2-40(1).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset82" id="optionset82_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'82_2',1,'explain82');"> <label for="optionset82_2"><img src=" https://www.fresherslive.com/mock-test-images/2019/jun/19/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock2-40(2).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset82" id="optionset82_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'82_3',1,'explain82');"> <label for="optionset82_3"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/19/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock2-40(3).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset82" id="optionset82_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'82_4',1,'explain82');"> <label for="optionset82_4"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/19/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock2-40(4).jpg" class="imgresp"></label>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset82" id="optionset82_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'82_5',1,'explain82');"> <label for="optionset82_5">None of these</label>
+<br>
+
+</div>
+<br><br>
+<div class="showans_div" id="showans82"></div>
+
+<div class="wspacediv" id="wspace">
+<a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">84. From the given answer figures, select the one in which the question figure is hidden/embedded. <br><br><img src="https://www.fresherslive.com/mock-test-images/2019/jun/15/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock1-40.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset84" id="optionset84_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'84_1',1,'explain84');"> <label for="optionset84_1"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/15/sbiclerkprelimsmock2/reasoningability/ssc-chsl-tier1-mock1-40(1).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset84" id="optionset84_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'84_2',1,'explain84');"> <label for="optionset84_2"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/15/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock1-40(2).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset84" id="optionset84_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'84_3',1,'explain84');"> <label for="optionset84_3"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/15/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock1-40(3).jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset84" id="optionset84_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'84_4',1,'explain84');"> <label for="optionset84_4"><img src="https://www.fresherslive.com/mock-test-images/2019/jun/15/sbiclerkprelimsmock1/reasoningability/ssc-chsl-tier1-mock1-40(4).jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset84" id="optionset84_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'84_5',1,'explain84');"> <label for="optionset84_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans84"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">85. In following question, select the related figure from the given alternatives.<br><br><img src="https://www.fresherslive.com/mock-test-images/2019/may/20/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock5-reas-pictorial.jpg" class="imgresp"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset85" id="optionset85_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'85_1',1,'explain85');"> <label for="optionset85_1"><img src="https://www.fresherslive.com/mock-test-images/2019/may/20/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock5-reas-pictorial-a.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset85" id="optionset85_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'85_2',1,'explain85');"> <label for="optionset85_2"><img src="https://www.fresherslive.com/mock-test-images/2019/may/20/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock5-reas-pictorial-b.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset85" id="optionset85_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'85_3',1,'explain85');"> <label for="optionset85_3"><img src="https://www.fresherslive.com/mock-test-images/2019/may/20/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock5-reas-pictorial-c.jpg" class="imgresp"></label>
+<div class="optdiv"><input type="radio" name="optionset85" id="optionset85_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'85_4',1,'explain85');"> <label for="optionset85_4"><img src="https://www.fresherslive.com/mock-test-images/2019/may/20/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock5-reas-pictorial-d.jpg" class="imgresp"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset85" id="optionset85_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'85_5',1,'explain85');"> <label for="optionset85_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans85"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">86. If mirror is placed on the line MN, then which of the answer figures is the correct image of the given figure?<br>
+<strong>Question Figure</strong><br>
+<br>
+<img class="imgresp" src=" https://www.fresherslive.com/mock-test-images/2019/may/17/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-4-reas-42.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset86" id="optionset86_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'86_1',1,'explain86');"> <label for="optionset86_1"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/22/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-4-reas-42--4.jpg"></label>
+<div class="optdiv"><input type="radio" name="optionset86" id="optionset86_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'86_2',1,'explain86');"> <label for="optionset86_2"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/22/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-4-reas-42--4(11).jpg"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset86" id="optionset86_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'86_3',1,'explain86');"> <label for="optionset86_3"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/22/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-4-reas-42--4(12).jpg"></label>
+<div class="optdiv"><input type="radio" name="optionset86" id="optionset86_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'86_4',1,'explain86');"> <label for="optionset86_4"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/22/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-4-reas-42--4(13).jpg"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset86" id="optionset86_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'86_5',1,'explain86');"> <label for="optionset86_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans86"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">87. A triangular piece of paper is folded and cut as shown below. Find out from the answer figures how it will appear when opened.<br>
+<br>
+<strong>Question Figures:</strong><br>
+<br>
+<img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/14/sbiclerkprelimsmock2/reasoningability/rrb-ntpc-stage1-mock-2-reas-42.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset87" id="optionset87_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'87_1',1,'explain87');"> <label for="optionset87_1"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/14/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-2-reas-42(1).jpg"></label>
+<div class="optdiv"><input type="radio" name="optionset87" id="optionset87_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'87_2',1,'explain87');"> <label for="optionset87_2"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/14/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-2-reas-42(2).jpg"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset87" id="optionset87_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'87_3',1,'explain87');"> <label for="optionset87_3"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/14/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-2-reas-42(3).jpg"></label>
+<div class="optdiv"><input type="radio" name="optionset87" id="optionset87_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'87_4',1,'explain87');"> <label for="optionset87_4"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/14/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-2-reas-42(4).jpg"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset87" id="optionset87_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'87_5',1,'explain87');"> <label for="optionset87_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans87"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">88. In the following question, the first two figures in the problem figure are related in some way. The same relatioship holds between the third figure and one of the four answer of the figures (1), (2), (3) and (4). Identify that figure.<br>
+<br>
+<img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/14/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-1-reas-42.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset88" id="optionset88_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'88_1',1,'explain88');"> <label for="optionset88_1"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/14/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-1-reas-42(1).jpg"></label>
+<div class="optdiv"><input type="radio" name="optionset88" id="optionset88_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'88_2',1,'explain88');"> <label for="optionset88_2"><img class="imgresp" src=" https://www.fresherslive.com/mock-test-images/2019/may/14/sbiclerkprelimsmock2/reasoningability/rrb-ntpc-stage1-mock-1-reas-42(2).jpg"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset88" id="optionset88_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'88_3',1,'explain88');"> <label for="optionset88_3"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/14/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-1-reas-42(3).jpg"></label>
+<div class="optdiv"><input type="radio" name="optionset88" id="optionset88_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'88_4',1,'explain88');"> <label for="optionset88_4"><img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2019/may/14/sbiclerkprelimsmock1/reasoningability/rrb-ntpc-stage1-mock-1-reas-42(4).jpg"></label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset88" id="optionset88_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'88_5',1,'explain88');"> <label for="optionset88_5">None of these</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans88"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">89. Find the number in the missing place.
+<div><img class="imageresp" src="https://www.fresherslive.com/mock-test-images/2017/feb/06/sscchsltierimock1/reasoningability/numbpuzz04.jpg"></div>
+</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset89" id="optionset89_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'89_1',0,'explain89');"> <label for="optionset89_1">1</label>
+<div class="optdiv"><input type="radio" name="optionset89" id="optionset89_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'89_2',0,'explain89');"> <label for="optionset89_2">2</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset89" id="optionset89_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'89_3',0,'explain89');"> <label for="optionset89_3">3</label>
+<div class="optdiv"><input type="radio" name="optionset89" id="optionset89_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'89_4',0,'explain89');"> <label for="optionset89_4">4</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset89" id="optionset89_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'89_5',0,'explain89');"> <label for="optionset89_5">None of the above</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans89"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">90. Find the number in the missing place ?<br>
+<img class="imageresp" src="https://www.fresherslive.com/mock-test-images/2017/feb/06/sscchsltierimock1/reasoningability/numbpuzz03.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset90" id="optionset90_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'90_1',0,'explain90');"> <label for="optionset90_1">18</label>
+<div class="optdiv"><input type="radio" name="optionset90" id="optionset90_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'90_2',0,'explain90');"> <label for="optionset90_2">19</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset90" id="optionset90_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'90_3',0,'explain90');"> <label for="optionset90_3">22</label>
+<div class="optdiv"><input type="radio" name="optionset90" id="optionset90_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'90_4',0,'explain90');"> <label for="optionset90_4">38</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset90" id="optionset90_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'90_5',0,'explain90');"> <label for="optionset90_5">None of the above</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans90"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">91. Select a suitable figure from the four alternatives that would complete the figure matrix.<br>
+<img class="imageresp" src=" https://www.fresherslive.com/mock-test-images/2017/feb/06/sscchsltierimock1/reasoningability/emb09.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset91" id="optionset91_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'91_1',0,'explain91');"> <label for="optionset91_1">A</label>
+<div class="optdiv"><input type="radio" name="optionset91" id="optionset91_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'91_2',0,'explain91');"> <label for="optionset91_2">B</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset91" id="optionset91_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'91_3',0,'explain91');"> <label for="optionset91_3">C</label>
+<div class="optdiv"><input type="radio" name="optionset91" id="optionset91_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'91_4',0,'explain91');"> <label for="optionset91_4">D</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset91" id="optionset91_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'91_5',0,'explain91');"> <label for="optionset91_5">None of the above</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans91"></div>
+
+<div class="wspacediv" id="wspace">
+
+
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">92. Select a suitable figure from the four alternatives that would complete the figure matrix<br>
+<img class="imageresp" src="https://www.fresherslive.com/mock-test-images/2017/feb/06/sscchsltierimock1/reasoningability/emb08.jpg"></div>
+</div>
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset92" id="optionset92_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'92_1',0,'explain92');"> <label for="optionset92_1">A</label>
+<div class="optdiv"><input type="radio" name="optionset92" id="optionset92_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'92_2',0,'explain92');"> <label for="optionset92_2">B</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset92" id="optionset92_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'92_3',0,'explain92');"> <label for="optionset92_3">C</label>
+<div class="optdiv"><input type="radio" name="optionset92" id="optionset92_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'92_4',0,'explain92');"> <label for="optionset92_4">D</label>
+</div>
+<div class="optrow">
+<div class="optdiv"><input type="radio" name="optionset92" id="optionset92_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'92_5',0,'explain92');"> <label for="optionset92_5">None of the above</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans92"></div>
+
+<div class="wspacediv" id="wspace">
+<a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">93. Select a suitable figure from the four alternatives that would complete the figure matrix<br>
+<img class="imageresp" src="https://www.fresherslive.com/mock-test-images/2017/feb/06/sscchsltierimock1/reasoningability/emb07.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset93" id="optionset93_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'93_1',0,'explain93');"> <label for="optionset93_1">A</label>
+<div class="optdiv"><input type="radio" name="optionset93" id="optionset93_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'93_2',0,'explain93');"> <label for="optionset93_2">B</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset93" id="optionset93_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'93_3',0,'explain93');"> <label for="optionset93_3">C</label>
+<div class="optdiv"><input type="radio" name="optionset93" id="optionset93_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'93_4',0,'explain93');"> <label for="optionset93_4">D</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset93" id="optionset93_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'93_5',0,'explain93');"> <label for="optionset93_5">None of the above</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans93"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">94. Select a suitable figure from the four alternatives that would complete the figure matrix<br>
+<img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2017/feb/06/sscchsltierimock1/reasoningability/emb06.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset94" id="optionset94_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'94_1',0,'explain94');"> <label for="optionset94_1">A</label>
+<div class="optdiv"><input type="radio" name="optionset94" id="optionset94_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'94_2',0,'explain94');"> <label for="optionset94_2">B</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset94" id="optionset94_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'94_3',0,'explain94');"> <label for="optionset94_3">C</label>
+<div class="optdiv"><input type="radio" name="optionset94" id="optionset94_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'94_4',0,'explain94');"> <label for="optionset94_4">D</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset94" id="optionset94_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'94_5',0,'explain94');"> <label for="optionset94_5">None of the above</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans94"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">95. Select a suitable figure from the four alternatives that would complete the figure matrix.<br>
+<img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2017/feb/06/sscchsltierimock1/reasoningability/emb05.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset95" id="optionset95_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,1,'95_1',0,'explain95');"> <label for="optionset95_1">A</label>
+<div class="optdiv"><input type="radio" name="optionset95" id="optionset95_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,1,'95_2',0,'explain95');"> <label for="optionset95_2">B</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset95" id="optionset95_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,1,'95_3',0,'explain95');"> <label for="optionset95_3">C</label>
+<div class="optdiv"><input type="radio" name="optionset95" id="optionset95_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,1,'95_4',0,'explain95');"> <label for="optionset95_4">D</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset95" id="optionset95_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,1,'95_5',0,'explain95');"> <label for="optionset95_5">None of the above</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans95"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">96. Select a suitable figure from the four alternatives that would complete the figure matrix<br>
+<img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2017/feb/06/sscchsltierimock1/reasoningability/emb04.jpg">&nbsp;</div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset96" id="optionset96_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,2,'96_1',0,'explain96');"> <label for="optionset96_1">A</label>
+<div class="optdiv"><input type="radio" name="optionset96" id="optionset96_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,2,'96_2',0,'explain96');"> <label for="optionset96_2">B</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset96" id="optionset96_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,2,'96_3',0,'explain96');"> <label for="optionset96_3">C</label>
+<div class="optdiv"><input type="radio" name="optionset96" id="optionset96_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,2,'96_4',0,'explain96');"> <label for="optionset96_4">D</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset96" id="optionset96_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,2,'96_5',0,'explain96');"> <label for="optionset96_5">None of the above</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans96"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">97. What number should replace the question mark ("?") ?<br>
+<img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2017/feb/06/sscchsltierimock1/reasoningability/numbpuzz02.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset97" id="optionset97_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'97_1',0,'explain97');"> <label for="optionset97_1">4</label>
+<div class="optdiv"><input type="radio" name="optionset97" id="optionset97_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'97_2',0,'explain97');"> <label for="optionset97_2">6</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset97" id="optionset97_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'97_3',0,'explain97');"> <label for="optionset97_3">8</label>
+<div class="optdiv"><input type="radio" name="optionset97" id="optionset97_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'97_4',0,'explain97');"> <label for="optionset97_4">9</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset97" id="optionset97_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'97_5',0,'explain97');"> <label for="optionset97_5">None of the above</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans97"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">98. Find the missing number :&nbsp;<br>
+<img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2017/feb/06/sscchsltierimock1/reasoningability/numbpuzz01.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset98" id="optionset98_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'98_1',0,'explain98');"> <label for="optionset98_1">9</label>
+<div class="optdiv"><input type="radio" name="optionset98" id="optionset98_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'98_2',0,'explain98');"> <label for="optionset98_2">11</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset98" id="optionset98_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'98_3',0,'explain98');"> <label for="optionset98_3">13</label>
+<div class="optdiv"><input type="radio" name="optionset98" id="optionset98_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'98_4',0,'explain98');"> <label for="optionset98_4">15</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset98" id="optionset98_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'98_5',0,'explain98');"> <label for="optionset98_5">None of the above</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans98"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">99. Which of the four option below suits the embedded option in figure X?&nbsp;<br>
+&nbsp; <img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2017/feb/03/sscchsltierimock1/reasoningability/embeddimage12.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset99" id="optionset99_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,4,'99_1',1,'explain99');"> <label for="optionset99_1">a</label>
+<div class="optdiv"><input type="radio" name="optionset99" id="optionset99_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,4,'99_2',1,'explain99');"> <label for="optionset99_2">b</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset99" id="optionset99_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,4,'99_3',1,'explain99');"> <label for="optionset99_3">c</label>
+<div class="optdiv"><input type="radio" name="optionset99" id="optionset99_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,4,'99_4',1,'explain99');"> <label for="optionset99_4">d</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset99" id="optionset99_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,4,'99_5',1,'explain99');"> <label for="optionset99_5">None of the above</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans99"></div>
+
+</a><div class="wspacediv" id="wspace"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a></div><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<br>
+<hr class="wspacehr">
+
+<div class="qus_txt">100. Which of the four option below suits the embedded option in figure X?<br>
+&nbsp; &nbsp;<img class="imgresp" src="https://www.fresherslive.com/mock-test-images/2017/feb/03/sscchsltierimock1/reasoningability/embeddimage11.jpg"></div>
+
+<br>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset100" id="optionset100_1" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(1,3,'100_1',0,'explain100');"> <label for="optionset100_1">a</label>
+<div class="optdiv"><input type="radio" name="optionset100" id="optionset100_2" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(2,3,'100_2',0,'explain100');"> <label for="optionset100_2">b</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+</a><div class="optdiv"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a=""><input type="radio" name="optionset100" id="optionset100_3" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(3,3,'100_3',0,'explain100');"> <label for="optionset100_3">c</label>
+<div class="optdiv"><input type="radio" name="optionset100" id="optionset100_4" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(4,3,'100_4',0,'explain100');"> <label for="optionset100_4">d</label>
+</div>
+</a><div class="optrow"><a class="wspacea" id="workspc" onclick="if (!window.__cfRLUnblockHandlers) return false; javascript:tglforPG('Workspace','workspc');" a="">
+<div class="optdiv"><input type="radio" name="optionset100" id="optionset100_5" value="" onclick="if (!window.__cfRLUnblockHandlers) return false; optchkd(5,3,'100_5',0,'explain100');"> <label for="optionset100_5">None of the above</label>
+<br>
+</div>
+<br><br>
+<div class="showans_div" id="showans100"></div>
+
+<br>
+<hr class="wspacehr">
+
+</a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></body></html>
