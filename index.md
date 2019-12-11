@@ -13,4 +13,7 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/RemainderSolution.html">Remainder Solutions</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/RiyaJain/Exam20.html">Mock 1</a></li>
+	</ul>
 </body></html>
