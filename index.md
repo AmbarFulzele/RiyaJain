@@ -9,7 +9,7 @@
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_1_Solution.html"></a></li>
 	</ul>
 	<ul> 
-	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_2_VARC.html">VARC Secional 1</a></li>
+	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_2_VARC.html"></a>VARC Secional 1</li>
 	</ul>
 	<ul> 
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_2_Solution.html"></a></li>
