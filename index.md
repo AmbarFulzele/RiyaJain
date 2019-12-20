@@ -8,23 +8,20 @@
 	<ul> 
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_1_Solution.html"></a></li>
 	</ul>
-<ul> 
-	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNET2016.html">TISSNET 2016</a></li>
-	</ul>
 	<ul> 
-	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_2_VARC.html"></a></li>
+	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_2_VARC.html"></a>VARC Sectional 1</li>
 	</ul>
 	<ul> 
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_2_Solution.html"></a></li>
 	</ul>
 	<ul> 
-	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_3_QuantDI.html"></a></li>
+	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_3_QuantDI.html">Quant DI Sectional 2</a></li>
 	</ul>
 	<ul> 
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_3_Solution.html"></a></li>
 	</ul>
 	<ul> 
-	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_4_VARC.html"></a></li>
+	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_4_VARC.html">VARC Sectional 2</a></li>
 	</ul>
 	<ul> 
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_4_Solution.html"></a></li>
