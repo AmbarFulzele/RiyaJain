@@ -14,6 +14,10 @@
 	<ul> 
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_2_Solution.html"></a></li>
 	</ul>
+
+<ul> 
+	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNET2016.html">TISSNET Question Paper</a></li>
+	</ul>
 	<ul> 
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETSECTIONAL_3_QuantDI.html"></a></li>
 	</ul>
