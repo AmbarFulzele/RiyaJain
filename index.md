@@ -21,13 +21,13 @@
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNET2016_Solution.html"></a></li>
 	</ul>
 	<ul> 
-	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETMock_1.html">TISSNET Mock 1</a></li>
+	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETMock1.html">TISSNET Mock 1</a></li>
 	</ul>
 	<ul> 
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETMock1_Solution.html"></a></li>
 	</ul>
 	<ul> 
-	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSMATMock_1.html">TISSMAT Mock 1</a></li>
+	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSMATMock1.html">TISSMAT Mock 1</a></li>
 	</ul>
 	<ul> 
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSMATMock1_Solution.html"></a></li>
