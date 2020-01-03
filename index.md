@@ -28,6 +28,13 @@
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETMock3.html">TISSNET Mock 3</a></li>
 	</ul>
 	<ul> 
+	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSNETMock3_Solution.html">TISSNET Mock 3 - Solution</a></li>
+	</ul>
+	
+	<ul> 
 	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSMATMock3.html">TISSMAT Mock 3</a></li>
+	</ul>
+	<ul> 
+	  <li><a href="https://ambarfulzele.github.io/RiyaJain/TISSMATMock3_Solution.html">TISSMAT Mock 3 - Solution</a></li>
 	</ul>
 </body></html>
